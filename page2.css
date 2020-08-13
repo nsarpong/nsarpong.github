@@ -8,3 +8,12 @@ h2{
   color:darkorchid;
   font-size: 40px;
 }
+
+.Round-Image{
+  height: 200px;
+  border-radius: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
