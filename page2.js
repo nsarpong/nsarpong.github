@@ -1,9 +1,11 @@
+
+
 var amountOfLikes = 0
 
 function handleLike(){
-  amountOfLikes++
-  console.log(amountOfLikes)
-var likesDisplay = document.getElementById('likes')
+amountOfLikes++
+console.log(amountOfLikes);
+var likesDisplay=document.getElementById("likes")
 
-likesDisplay.innerHTML = amountOfLikes
+likesDisplay.innerHTML= amountOfLikes
 }
