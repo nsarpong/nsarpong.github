@@ -31,3 +31,13 @@ h3{
 p{
   font-size: 20px;
 }
+
+#page2{
+  Color: white;
+  background-color: blue;
+}
+
+#page3{
+  color: blue;
+  background-color: aquamarine;
+}

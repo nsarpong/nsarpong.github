@@ -9,3 +9,4 @@ var likesDisplay=document.getElementById("likes")
 
 likesDisplay.innerHTML= amountOfLikes
 }
+

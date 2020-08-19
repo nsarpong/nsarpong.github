@@ -21,3 +21,20 @@ h5{
 p{
   font-size: 20px;
 }
+
+#page1{
+  color:darkorchid;
+  background-color: beige;
+  float:left; 
+}
+
+#page2{
+  Color: white;
+  background-color: blue;
+  float:left; 
+}
+
+#page3{
+  color: blue;
+  background-color: aquamarine;
+}
