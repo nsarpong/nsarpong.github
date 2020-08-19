@@ -43,3 +43,15 @@ function changePicture(pictureNumber){
   }
 
 }
+
+function submitForm(){
+  var yourname = document.getElementById("yourname").value
+  var school = document.getElementById("school").value
+
+  if(yourname === "" && school=== "" ) {
+    alert ("Please fill in form") 
+  }else{
+    alert ("Thank you for submitting")
+
+  }
+}
